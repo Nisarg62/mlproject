@@ -1,7 +1,9 @@
 [project]
-name = "project"
-version = "0.1.0"
+name = "mlproject"
+version = "0.0.1"
 description = "Add your description here"
+author = "Nisarg"
+author_email = "singhnisarg@gmail.com"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
