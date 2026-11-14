@@ -22,6 +22,10 @@ dist/
 .env
 .env.*
 !.env.example
+artifact/
+artifacts/
+logs/
+
 
 # Testing, coverage & linter caches
 .pytest_cache/
